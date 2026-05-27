@@ -7,10 +7,10 @@ A simple and clean Book Management System built with **React.js** and **Tailwind
 ## Screenshots
 
 ### Dashboard — Book List View
-![BookShelf Dashboard](./Screenshot-2026-05-27-175748-1779884942275.png)
+![BookShelf Dashboard](./public/img-1.png)
 
 ### Add New Book — Modal Form
-![Add Book Modal](./Screenshot-2026-05-27-175812-1779884942276.png)
+![Add Book Modal](./public/img-2.png)
 
 ---
 
